@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0868f5ea-df0e-43c7-9ab2-c93f83d1d790" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UbrbqcYK6Twreb6XaxkrJWdSy0" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="Downloaded.Files.Path" value="D:\Teach\Inno\5. Модульное тестирование на базе JUnit5. Основы тестирования\1" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deps/logger/logback-core-1.2.3.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="stc.inno20.dao" />
+      <recent name="stc.inno20" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Teach\Inno\5. Модульное тестирование на базе JUnit5. Основы тестирования\src\src" />
+      <recent name="D:\Teach\Inno\5. Модульное тестирование на базе JUnit5. Основы тестирования\src\src\stc\inno20" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MobileDaoJdbcImplTest.test2">
+    <configuration name="MobileDaoJdbcImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno20.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stc.inno20.dao" />
+      <option name="MAIN_CLASS_NAME" value="stc.inno20.dao.MobileDaoJdbcImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileDaoJdbcImplTest.addMobile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno20.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stc.inno20.dao" />
+      <option name="MAIN_CLASS_NAME" value="stc.inno20.dao.MobileDaoJdbcImplTest" />
+      <option name="METHOD_NAME" value="addMobile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileDaoJdbcImplTest.addMobileWithSqlException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno20.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stc.inno20.dao" />
+      <option name="MAIN_CLASS_NAME" value="stc.inno20.dao.MobileDaoJdbcImplTest" />
+      <option name="METHOD_NAME" value="addMobileWithSqlException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileDaoJdbcImplTest.getMobileById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno20.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stc.inno20.dao" />
+      <option name="MAIN_CLASS_NAME" value="stc.inno20.dao.MobileDaoJdbcImplTest" />
+      <option name="METHOD_NAME" value="getMobileById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileDaoJdbcImplTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno20.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stc.inno20.dao" />
+      <option name="MAIN_CLASS_NAME" value="stc.inno20.dao.MobileDaoJdbcImplTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MobileDaoJdbcImplTest.addMobile" />
+      <item itemvalue="JUnit.MobileDaoJdbcImplTest" />
+      <item itemvalue="JUnit.MobileDaoJdbcImplTest.addMobileWithSqlException" />
+      <item itemvalue="JUnit.MobileDaoJdbcImplTest.getMobileById" />
+      <item itemvalue="JUnit.MobileDaoJdbcImplTest.test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MobileDaoJdbcImplTest.test2" />
+        <item itemvalue="JUnit.MobileDaoJdbcImplTest" />
+        <item itemvalue="JUnit.MobileDaoJdbcImplTest.addMobile" />
+        <item itemvalue="JUnit.MobileDaoJdbcImplTest.getMobileById" />
+        <item itemvalue="JUnit.MobileDaoJdbcImplTest.addMobileWithSqlException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:mobile@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0868f5ea-df0e-43c7-9ab2-c93f83d1d790" name="Default Changelist" comment="" />
+      <created>1575636209674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575636209674</updated>
+      <workItem from="1575636214111" duration="6854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="105" width="1047" height="683" key="#Project_Structure" timestamp="1575641998633">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="361" y="105" width="1047" height="683" key="#Project_Structure/0.30.1536.834@0.30.1536.834" timestamp="1575641998633" />
+    <state x="361" y="105" key="#SQL_Dialects" timestamp="1575640372412">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="361" y="105" key="#SQL_Dialects/0.30.1536.834@0.30.1536.834" timestamp="1575640372412" />
+    <state x="361" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575640337423">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="361" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1536.834@0.30.1536.834" timestamp="1575640337423" />
+    <state x="574" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1575643632396">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="574" y="156" key="#com.intellij.ide.util.MemberChooser/0.30.1536.834@0.30.1536.834" timestamp="1575643632396" />
+    <state x="646" y="162" key="FileChooserDialogImpl" timestamp="1575641988249">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="646" y="162" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1575641988249" />
+    <state width="1493" height="615" key="GridCell.Tab.0.bottom" timestamp="1575644296922">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="615" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1575644296922" />
+    <state width="1493" height="615" key="GridCell.Tab.0.center" timestamp="1575644296922">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="615" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1575644296922" />
+    <state width="1493" height="615" key="GridCell.Tab.0.left" timestamp="1575644296922">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="615" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1575644296922" />
+    <state width="1493" height="615" key="GridCell.Tab.0.right" timestamp="1575644296922">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="615" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1575644296922" />
+    <state width="1493" height="276" key="GridCell.Tab.1.bottom" timestamp="1575643588521">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="276" key="GridCell.Tab.1.bottom/0.30.1536.834@0.30.1536.834" timestamp="1575643588521" />
+    <state width="1493" height="276" key="GridCell.Tab.1.center" timestamp="1575643588520">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="276" key="GridCell.Tab.1.center/0.30.1536.834@0.30.1536.834" timestamp="1575643588520" />
+    <state width="1493" height="276" key="GridCell.Tab.1.left" timestamp="1575643588520">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="276" key="GridCell.Tab.1.left/0.30.1536.834@0.30.1536.834" timestamp="1575643588520" />
+    <state width="1493" height="276" key="GridCell.Tab.1.right" timestamp="1575643588521">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="276" key="GridCell.Tab.1.right/0.30.1536.834@0.30.1536.834" timestamp="1575643588521" />
+    <state x="498" y="341" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575641877812">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="498" y="341" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.30.1536.834@0.30.1536.834" timestamp="1575641877812" />
+    <state x="540" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575644163050">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="540" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.30.1536.834@0.30.1536.834" timestamp="1575644163050" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stc/inno20/ConnectionManager/ConnectionManagerJdbcImpl.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/src$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1575640226456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>stc.inno20.*</FILTER>
+    </SUITE>
+  </component>
+</project>

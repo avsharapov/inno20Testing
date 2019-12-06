@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="byte-buddy-agent-1.10.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../deps/mockito/byte-buddy-agent-1.10.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
